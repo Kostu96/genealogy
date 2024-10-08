@@ -69,8 +69,8 @@
 2 PLAC Przemyśl, podkarpackie, Polska
 1 FAMC @F1@
 0 @I6@ INDI
-1 NAME Grzegorz /Misiak/
-2 GIVN Grzegorz
+1 NAME Grzegorz Sebastian /Misiak/
+2 GIVN Grzegorz Sebastian
 2 SURN Misiak
 2 _MARNM Misiak
 1 SEX M
@@ -198,6 +198,7 @@
 2 _MARNM Misiak
 1 SEX M
 1 DEAT Y
+2 PLAC Wrocław, dolnośląskie, Polska
 1 FAMS @F4@
 0 @I19@ INDI
 1 NAME Stanisława /Ćwik/
@@ -321,6 +322,7 @@
 2 SURN Paja
 2 _MARNM Paja
 1 SEX M
+1 FAMS @F29@
 1 FAMC @F9@
 0 @I34@ INDI
 1 NAME Jan /Pałys/
@@ -425,8 +427,8 @@
 1 SEX M
 1 FAMC @F11@
 0 @I47@ INDI
-1 NAME ? /Napieraj/
-2 GIVN ?
+1 NAME Antonina /Napieraj/
+2 GIVN Antonina
 2 SURN Napieraj
 2 _MARNM Napieraj
 1 SEX F
@@ -1086,6 +1088,20 @@
 1 BURI
 2 DATE 28 MAY 1889
 1 FAMC @F25@
+0 @I103@ INDI
+1 NAME Karol /Paja/
+2 GIVN Karol
+2 SURN Paja
+2 _MARNM Paja
+1 SEX M
+1 FAMC @F13@
+0 @I104@ INDI
+1 NAME Maciej /Paja/
+2 GIVN Maciej
+2 SURN Paja
+2 _MARNM Paja
+1 SEX M
+1 FAMC @F29@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -1199,6 +1215,7 @@
 0 @F13@ FAM
 1 HUSB @I16@
 1 WIFE @I24@
+1 CHIL @I103@
 1 MARR
 1 _CURRENT Y
 1 _PRIMARY Y
@@ -1270,6 +1287,9 @@
 1 HUSB @I59@
 1 CHIL @I60@
 1 CHIL @I61@
+0 @F29@ FAM
+1 HUSB @I33@
+1 CHIL @I104@
 0 @F24@ FAM
 1 HUSB @I67@
 1 WIFE @I68@
