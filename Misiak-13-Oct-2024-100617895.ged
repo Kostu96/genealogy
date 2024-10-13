@@ -2,7 +2,7 @@
 1 SOUR Family Echo
 2 WWW https://www.familyecho.com/
 1 FILE Misiak
-1 DATE 8 OCT 2024
+1 DATE 13 OCT 2024
 1 DEST ANSTFILE
 1 GEDC
 2 VERS 5.5.1
@@ -127,6 +127,7 @@
 1 DEAT Y
 2 DATE 9 FEB 2003
 2 PLAC Przemyśl, podkarpackie, Polska
+1 OCCU Fryzjer
 1 FAMS @F5@
 1 FAMC @F7@
 0 @I11@ INDI
@@ -139,6 +140,7 @@
 2 DATE 8 FEB 1911
 1 DEAT Y
 2 DATE 18 NOV 1994
+1 OCCU Fryzjerka
 1 FAMS @F5@
 1 FAMC @F8@
 0 @I12@ INDI
@@ -1102,6 +1104,48 @@
 2 _MARNM Paja
 1 SEX M
 1 FAMC @F29@
+0 @I105@ INDI
+1 NAME Jan /Hrynczyszyn/
+2 GIVN Jan
+2 SURN Hrynczyszyn
+2 _MARNM Hrynczyszyn
+1 SEX M
+1 BIRT
+2 DATE 1940
+1 DEAT Y
+2 DATE BET 1996 AND 1999
+2 PLAC Elbląg
+1 OCCU Wojskowy - Major
+1 FAMS @F30@
+1 FAMC @F5@
+0 @I106@ INDI
+1 NAME Zdzisława /Osiadły/
+2 GIVN Zdzisława
+2 SURN Osiadły
+2 _MARNM Hrynczyszyn
+1 SEX F
+1 FAMS @F30@
+0 @I107@ INDI
+1 NAME Mariusz /Hrynczyszyn/
+2 GIVN Mariusz
+2 SURN Hrynczyszyn
+2 _MARNM Winarczyk
+1 SEX M
+1 FAMC @F30@
+0 @I108@ INDI
+1 NAME Andrzej /Hrynczyszyn/
+2 GIVN Andrzej
+2 SURN Hrynczyszyn
+2 _MARNM Hrynczyszyn
+1 SEX M
+1 FAMC @F30@
+0 @I109@ INDI
+1 NAME Tomasz /Hrynczyszyn/
+2 GIVN Tomasz
+2 SURN Hrynczyszyn
+2 _MARNM Hrynczyszyn
+1 SEX M
+1 FAMC @F30@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -1145,6 +1189,7 @@
 1 HUSB @I10@
 1 WIFE @I11@
 1 CHIL @I8@
+1 CHIL @I105@
 1 MARR
 1 _CURRENT Y
 1 _PRIMARY Y
@@ -1344,6 +1389,14 @@
 1 MARR
 2 DATE 12 JUL 1938
 2 PLAC Zakopane, małopolskie, Polska
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F30@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I107@
+1 CHIL @I108@
+1 CHIL @I109@
 1 _CURRENT Y
 1 _PRIMARY Y
 0 TRLR
