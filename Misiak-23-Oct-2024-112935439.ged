@@ -2,7 +2,7 @@
 1 SOUR Family Echo
 2 WWW https://www.familyecho.com/
 1 FILE Misiak
-1 DATE 13 OCT 2024
+1 DATE 23 OCT 2024
 1 DEST ANSTFILE
 1 GEDC
 2 VERS 5.5.1
@@ -309,6 +309,7 @@
 2 SURN Wolańska
 2 _MARNM Paja
 1 SEX F
+1 DEAT Y
 1 FAMS @F9@
 0 @I32@ INDI
 1 NAME Grażyna /Paja/
@@ -1115,6 +1116,7 @@
 1 DEAT Y
 2 DATE BET 1996 AND 1999
 2 PLAC Elbląg
+2 CAUS wylew
 1 OCCU Wojskowy - Major
 1 FAMS @F30@
 1 FAMC @F5@
